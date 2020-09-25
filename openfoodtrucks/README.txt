@@ -9,6 +9,3 @@ Run the tool:
 1. open your command line prompt
 2. get to your folder where the scripts are stored: e.g. cd /d D:\openfoodtrucks  (for windows)
 3. run the tool, type: python GetFoodTrucks.py 
-
-
-Enjoy!
